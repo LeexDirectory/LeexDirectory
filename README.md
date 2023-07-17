@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-<!--
-**LeexDirectory/LeexDirectory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ 
+### Im Alexander 🧔
 
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning SS7 Network.
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Its impossible.
 - 😄 Pronouns: Pitudo, papi, vergon.
 - ⚡ Fun fact: My cock measures 20cm.
--->
